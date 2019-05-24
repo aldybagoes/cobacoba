@@ -11,7 +11,7 @@ package tubes_pbo;
  */
 public class Pemesanan {
     String Nama,Alamat;
-    int Jenis,Lama;
+    int Jenis,Lama, aldyJancuk;
     
     public void setNama(String Nama){
         this.Nama = Nama;
